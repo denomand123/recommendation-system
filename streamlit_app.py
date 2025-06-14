@@ -1,5 +1,5 @@
 '''
-Author: denom king
+Author: denomking
 Email: denomking30@gmail.com
 Date: 2025-JUN-6
 '''
